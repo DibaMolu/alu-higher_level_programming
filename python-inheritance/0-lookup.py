@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-'''.defined a method.'''
+""" Funtion that returns list of attributes and methods"""
 
 
 def lookup(obj):
-        '''.instantiated a method.'''
-            return dir((obj))
+    """Returns list of attributes and methods of obj"""
+    return dir(obj)
