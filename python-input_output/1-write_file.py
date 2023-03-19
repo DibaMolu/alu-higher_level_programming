@@ -3,7 +3,7 @@
 
 
 def write_file(filename="", text=""):
-        """Write a file"""
+    """write a file"""
 
-            with open(filename, "w") as file:
-                        return file.write(text)
+    with open(filename, "w") as file:
+        return file.write(text)
