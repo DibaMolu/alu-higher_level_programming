@@ -1,1 +1,1 @@
-working on python
+this readme is on more sql queries
